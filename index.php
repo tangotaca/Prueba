@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo "INICIO222222";
+        echo "INICIO de el GITHUB";
         ?>
     </body>
 </html>
